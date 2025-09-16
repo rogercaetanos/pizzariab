@@ -1,6 +1,5 @@
 package com.itb.inf2bm.pizzariab.model.entity;
 
-
 import jakarta.persistence.*;
 
 @Entity
